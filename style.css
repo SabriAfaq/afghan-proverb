@@ -10,6 +10,7 @@ body {
 }
 
 header {
+    width: 100%;
     position: sticky;
     background-color: #096B68;
     color: wheat;
@@ -19,6 +20,7 @@ header {
 }
 
 .nav {
+    width: 100%;
     position: sticky;
     background-color: #129990;
     display: flex;
@@ -157,6 +159,9 @@ form {
     border-radius: 10px;
     padding: 10px;
     border: 1px solid grey;
+}
+footer{
+    width: 100%;
 }
 
 footer p {
